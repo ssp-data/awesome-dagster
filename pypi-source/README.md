@@ -1,0 +1,1 @@
+Here will be the source for creating the awesome-dagster-pypi package. Best approach still to be defined. Discussion on-going here: https://github.com/dagster-io/dagster/discussions/3153#discussioncomment-229033
