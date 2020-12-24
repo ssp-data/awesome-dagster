@@ -26,7 +26,7 @@ List of content
 	* [Web-Scraping and Caching](https://github.com/sspaeti-com/dagster-data-pipelines/blob/main/src/pipelines/real-estate/realestate/common/solids_scraping.py) Web-scraping with BeautifulSoup
 
 # Hooks
-* [Success and Failure Hook](https://github.com/mitodl/ol-data-pipelines/blob/main/src/ol_data_pipelines/lib/hooks.py) [Success and Failure Pipeline Example](https://github.com/mitodl/ol-data-pipelines/blob/main/src/ol_data_pipelines/edx/solids.py#L585)
+* [Success and Failure Hook](https://github.com/mitodl/ol-data-pipelines/blob/main/src/ol_data_pipelines/lib/hooks.py) and [Pipeline Example](https://github.com/mitodl/ol-data-pipelines/blob/main/src/ol_data_pipelines/edx/solids.py#L585) How to use Hooks on failure or on error
 # Types
 * [JsonType](https://github.com/sspaeti-com/dagster-data-pipelines/blob/main/src/pipelines/real-estate/realestate/common/types_realestate.py#L46) A valid representation of a JSON, validated with json.loads()
 
@@ -42,7 +42,7 @@ List of content
 
 ## Podcasts
 * [Data Engineering Podcast - Build Maintainable And Testable Data Applications With Dagster - Episode 104](https://www.dataengineeringpodcast.com/dagster-data-applications-episode-104/) _October 28, 2019_: Fist podcast about Dagster where Nick Schrock the founder explains the motivation and the story behind Dagster.
-* [Software Wngineering Daily - Dagster with Nick Schrock](https://softwareengineeringdaily.com/2019/11/15/dagster-with-nick-schrock/) _November 15, 2019_: Second podcast with different insight from the software engineering perspective
+* [Software Engineering Daily - Dagster with Nick Schrock](https://softwareengineeringdaily.com/2019/11/15/dagster-with-nick-schrock/) _November 15, 2019_: Second podcast with different insight from the software engineering perspective
 * [Python Podcast - Digging Into Dagster: An Opinionated Open Source Framework For Data Orchestration - Episode 279](https://www.pythonpodcast.com/dagster-data-orchestration-episode-279/) _September 7, 2020_: Update on Dagster after a year.
 
 ## Slides
@@ -50,7 +50,7 @@ List of content
 * [Bestplaces and their Journey](https://drive.google.com/file/d/1BSaQmSc9szcKTT16-B_HzwPIYUKuxe81/view) A journey from various heterogeneous Tools to integrated Dagster Environment
 * [Dagster Migration At Prezi](https://prezi.com/view/kveaLi8KasReSs4pyP5l/) From JSON based homegrown orchestrator to Dagster
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) by [Igor Barinov](https://github.com/igorbarinov/).
+Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list of [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) by [Igor Barinov](https://github.com/igorbarinov/).
 
 ## License
 
