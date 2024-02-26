@@ -1,6 +1,8 @@
 Awesome Dagster
 ==========================
 
+> Please visit the offical [awesome-dagster](https://github.com/dagster-io/awesome-dagster) repo by dagster. I moved the relevant content over there.
+
 A curated list of dagster code snippets for data engineers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 List of content
